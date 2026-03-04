@@ -1,2 +1,4 @@
 # Visual-Prompt-Studio
-This is my prompt portfolio for my Art Appreciation Class
+**Name** Jackson Silvey
+***Course*** Art Aplication 
+**Description** This is my prompt portfolio for my Art Appreciation Class
